@@ -1,0 +1,221 @@
+Transaction History for Cash Johnny by fund.
+Money Market: $470
+D 1001 0 542
+W 1001 0 72
+Prime Money Market: $3042
+D 1001 1 1542
+D 1001 1 1500
+Long Term Bond: $10442
+D 1001 2 5442
+D 1001 2 5000
+Short Term Bond: $14540
+D 1001 3 7540
+D 1001 3 7000
+500 Index: $0
+No transaction history available.
+Captial Value: $54
+T 1001 7 1001 5 54
+Growth Equity: $15053
+D 1001 6 7542
+D 1001 6 7576
+W 1001 6 65
+Growth Index: $10931
+D 1001 7 5442
+D 1001 7 6543
+W 1001 7 1000
+T 1001 7 1001 5 54
+W 1001 7 20000(Transaction fail)
+
+Transaction History for Williams Hank by 500 Index
+D 1253 4 10000
+
+Transaction History for Williams Hank by fund.
+Money Market: $10000
+D 1253 0 10000
+Prime Money Market: $10000
+D 1253 1 10000
+Long Term Bond: $0
+D 1253 2 10000
+W 1253 2 10000
+Short Term Bond: $5000
+D 1253 3 10000
+W 1253 3 5000
+500 Index: $10000
+D 1253 4 10000
+Captial Value: $10000
+D 1253 5 10000
+Growth Equity: $10000
+D 1253 6 10000
+Growth Index: $10000
+D 1253 7 10000
+
+Transaction History for Lynn Loretta by fund.
+Money Market: $0
+No transaction history available.
+Prime Money Market: $0
+No transaction history available.
+Long Term Bond: $0
+No transaction history available.
+Short Term Bond: $0
+No transaction history available.
+500 Index: $0
+No transaction history available.
+Captial Value: $0
+No transaction history available.
+Growth Equity: $0
+No transaction history available.
+Growth Index: $2000
+D 6666 7 2000
+
+Transaction History for Parton Dolly by fund.
+Money Market: $3000
+D 5555 0 3000
+Prime Money Market: $4000
+D 5555 1 4000
+Long Term Bond: $5000
+D 5555 2 5000
+Short Term Bond: $0
+No transaction history available.
+500 Index: $0
+No transaction history available.
+Captial Value: $0
+No transaction history available.
+Growth Equity: $0
+No transaction history available.
+Growth Index: $0
+No transaction history available.
+
+Transaction History for Lynn Loretta by fund.
+Money Market: $0
+No transaction history available.
+Prime Money Market: $0
+No transaction history available.
+Long Term Bond: $0
+No transaction history available.
+Short Term Bond: $0
+No transaction history available.
+500 Index: $0
+No transaction history available.
+Captial Value: $0
+No transaction history available.
+Growth Equity: $0
+No transaction history available.
+Growth Index: $500
+D 6666 7 2000
+T 6666 7 5555 2 1500
+
+Transaction History for Parton Dolly by fund.
+Money Market: $3000
+D 5555 0 3000
+Prime Money Market: $2000
+D 5555 1 4000
+T 5555 1 4444 0 2000
+Long Term Bond: $6500
+D 5555 2 5000
+T 6666 7 5555 2 1500
+Short Term Bond: $0
+No transaction history available.
+500 Index: $0
+No transaction history available.
+Captial Value: $0
+No transaction history available.
+Growth Equity: $0
+No transaction history available.
+Growth Index: $0
+No transaction history available.
+
+Transaction History for Parton Dolly by 500 Index
+No transaction history available.
+
+Final Balances:
+
+
+Jones George Account ID: 500
+Money Market: $0
+Prime Money Market: $0
+Long Term Bond: $0
+Short Term Bond: $0
+500 Index: $0
+Captial Value: $0
+Growth Equity: $0
+Growth Index: $0 
+
+Cash Johnny Account ID: 1001
+Money Market: $0
+Prime Money Market: $3012
+Long Term Bond: $10442
+Short Term Bond: $14540
+500 Index: $0
+Captial Value: $54
+Growth Equity: $15053
+Growth Index: $10931 
+
+Williams Hank Account ID: 1253
+Money Market: $10000
+Prime Money Market: $0
+Long Term Bond: $0
+Short Term Bond: $5000
+500 Index: $10000
+Captial Value: $10000
+Growth Equity: $10000
+Growth Index: $10000 
+
+Farrar Jay Account ID: 2000
+Money Market: $0
+Prime Money Market: $0
+Long Term Bond: $0
+Short Term Bond: $0
+500 Index: $0
+Captial Value: $0
+Growth Equity: $0
+Growth Index: $0 
+
+Simpson Sturgill Account ID: 3000
+Money Market: $0
+Prime Money Market: $0
+Long Term Bond: $0
+Short Term Bond: $0
+500 Index: $500
+Captial Value: $0
+Growth Equity: $0
+Growth Index: $0 
+
+Haggard Merle Account ID: 4444
+Money Market: $4500
+Prime Money Market: $0
+Long Term Bond: $0
+Short Term Bond: $1000
+500 Index: $0
+Captial Value: $0
+Growth Equity: $0
+Growth Index: $0 
+
+Parton Dolly Account ID: 5555
+Money Market: $3000
+Prime Money Market: $2000
+Long Term Bond: $6500
+Short Term Bond: $0
+500 Index: $0
+Captial Value: $0
+Growth Equity: $0
+Growth Index: $0 
+
+Lynn Loretta Account ID: 6666
+Money Market: $0
+Prime Money Market: $0
+Long Term Bond: $0
+Short Term Bond: $0
+500 Index: $0
+Captial Value: $0
+Growth Equity: $0
+Growth Index: $500 
+
+Nelson Willie Account ID: 9876
+Money Market: $0
+Prime Money Market: $10000
+Long Term Bond: $0
+Short Term Bond: $0
+500 Index: $0
+Captial Value: $0
+Growth Equity: $0
+Growth Index: $0 
